@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuVP6yFKyFNrgx3QHILIK3j3pLZntlOPoh8/MJOjPdoUKagCSRZhbOwlYrcBRqAP9kRDqFPWI6tNpgcKkO5f6A==",
+  "success": true,
+  "projectFilePath": "/home/cdumange/code/perso/csharp-monorepo/src/Common/Result/Result/Result.csproj",
+  "expectedPackageFiles": [
+    "/home/cdumange/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
